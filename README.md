@@ -10,7 +10,7 @@ Summary: A comprehensive SQL analysis of the Northwind Traders database, explori
 
 ### Tools Used
 - **PostgreSQL** for database querying and analysis  
-- **Jupyter Notebooks** executing queries  
+- **Jupyter Notebooks** for executing queries  
 
 ### Goals and Business Relevancy
 Our goal was to analyze the Northwind Traders dataset to extract meaningful business insights related to **sales revenue, supplier behaviours, customer trends** and **operational efficiency**. By breaking down revenue trends and identifying patterns in purchasing behavior, high-value products, supplier reliability, and seasonal revenue fluctuations, we provide actionable recommendations to improve customer retention, optimize supplier partnerships and enhance logistics to maximize profitability.  
