@@ -16,7 +16,10 @@ Summary: A comprehensive SQL analysis of the Northwind Traders database, explori
 Our goal was to analyze the Northwind Traders dataset to extract meaningful business insights related to **sales revenue, supplier behaviours, customer trends** and **operational efficiency**. By breaking down revenue trends and identifying patterns in purchasing behavior, high-value products, supplier reliability, and seasonal revenue fluctuations, we provide actionable recommendations to improve customer retention, optimize supplier partnerships and enhance logistics to maximize profitability.  
 
 ### Challenges
-
+1. Incomplete or Empty Tables – The *customer_customer_demo* and *customer_demographics* tables are empty, limiting any demographic-based insights.
+2. Identifying "Loyal Customers" and "At-Risk Customers" required defining clear business logic and thresholds. Ensuring meaningful segmentation based on available order history was a key challenge.
+3. Some customers had inconsistent purchase histories, making it difficult to classify them into segments. This required careful handling of NULL values and missing timestamps.
+4. Extracting meaningful insights required writing complex SQL queries involving multiple joins, subqueries, and aggregations. To improve readability and maintainability, Common Table Expressions (CTEs) were used.
 
 ## Actionable Insights
 
@@ -39,3 +42,7 @@ Our goal was to analyze the Northwind Traders dataset to extract meaningful busi
 3. Out of all the shippers, **United Package** is the slowest, taking the most amount to time for delivery, and is also the most costly on average. Since they handle the bulk of orders, it might be worth negotiating better shipping contracts with them to significantly reduce costs. Additionally, **Speedy Express** has the lowest shipping costs per order. If expediting deliveries with Speedy Express can further improve order fulfillment without significantly increasing costs, shifting more shipments to them might be a good idea because customer satisfaction is often affected by long wait times.
 
 # Conclusion 
+
+Our analysis provided valuable insights. Key findings highlighted growth opportunities for underperforming employees, risk mitigation strategies for supplier dependencies and operational improvements for logistics and order fulfillment.
+
+By leveraging these insights, Northwind Traders can implement data-driven strategies to boost revenue, improve supplier partnerships, enhance customer retention and improve operations. Future work could involve integrating predictive analytics to forecast sales trends and optimize inventory management further.
