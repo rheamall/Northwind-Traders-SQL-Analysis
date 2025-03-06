@@ -38,7 +38,7 @@ Our goal was to analyze the Northwind Traders dataset to extract meaningful busi
 
 ### Operational Efficiency
 1. Only 7.61% of delayed orders were due to **stockouts**. This indicated that stockouts were not the primary bottleneck. Other factors like shipping inefficiencies or employee processing delays likely play the biggest role.
-2. Out of all the 3 shippers, **United Package** was the slowest, taking the most amount to time for delivery, and was also the most costly on average. Since this shipper handles the bulk of orders, it might be worth negotiating better shipping contracts with them to significantly reduce costs. Additionally, **Speedy Express** has the lowest shipping costs per order. Shifting more shipments to them might be a good idea because customer satisfaction is often affected by long wait times.
+2. Out of all the 3 shippers, **United Package** was the slowest, taking the most amount to time for delivery, and was also the most costly on average. Since this shipper handles the bulk of orders, it might be worth negotiating better shipping contracts with them to significantly reduce costs. Additionally, **Speedy Express** had the lowest shipping costs per order and also faster delivery times. Shifting more shipments to them would not only reduce costs but may also improve customer satisfaction, which is often affected by long wait times.
 
 # Conclusion 
 
