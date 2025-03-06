@@ -48,3 +48,8 @@ Our goal was to analyze the Northwind Traders dataset to extract meaningful busi
 Our analysis provided valuable insights. Key findings included identifying high-value customers, high-performing employees, peak order months and operational improvements for logistics and order fulfillment.
 
 By leveraging these insights, Northwind Traders can implement data-driven strategies to boost revenue, improve supplier partnerships, enhance customer retention and improve operations. Future work could involve integrating predictive analytics to forecast sales trends and optimize inventory management further.
+
+## Feedback is welcome. Connect with us:
+Rhea
+- Linkedin: https://www.linkedin.com/in/rheamall
+- Email: rheadeepamall@gmail.com
