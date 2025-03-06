@@ -1,6 +1,6 @@
 # Northwind Traders SQL Analysis
 
-**Summary**: A comprehensive SQL analysis of the Northwind Traders database, exploring data insights through complex queries, joins and CTEs. This project involved analyzing sales revenue, customer behavior, suppliers, operational efficiency and logistics to derive actionable insights for business improvement.
+**Summary**: This is a comprehensive SQL analysis of the Northwind Traders database, a simulated dataset commonly used for learning and business intelligence exploration. We explored data insights through complex queries, joins and CTEs. We focused our analysis in 4 key areas: these were **sales revenue, customer behavior, suppliers** and **operational efficiency**, to derive actionable insights for business improvement.
 
 ## About the Project
 
@@ -13,13 +13,13 @@
 - **Jupyter Notebooks** for executing queries  
 
 ### Goals and Business Relevancy
-Our goal was to analyze the Northwind Traders dataset to extract meaningful business insights related to **sales revenue, supplier behaviours, customer trends** and **operational efficiency**. By breaking down revenue trends and identifying patterns in purchasing behavior, high-value products, supplier reliability, and seasonal revenue fluctuations, we provide actionable recommendations to improve customer retention, optimize supplier partnerships and enhance logistics to maximize profitability.  
+Our goal was to analyze the Northwind Traders dataset to extract meaningful business insights related to **sales revenue, supplier behaviours, customer trends** and **operational efficiency**. By breaking down revenue trends and identifying patterns in purchasing behavior, high-value products, supplier reliability, and seasonal revenue fluctuations, we aimed to provide actionable recommendations to improve customer retention, optimize supplier partnerships and enhance logistics to maximize profitability.  
 
 ### Challenges
-1. Incomplete or Empty Tables – The *customer_customer_demo* and *customer_demographics* tables are empty, limiting any demographic-based insights.
-2. Identifying "Loyal Customers" and "At-Risk Customers" required defining clear business logic and thresholds. Ensuring meaningful segmentation based on available order history was a key challenge.
+1. The *customer_customer_demo* and *customer_demographics* tables were empty, limiting any demographic-based insights.
+2. Ensuring meaningful segmentation based on available order history was a key challenge we faced. For example, identifying "Loyal Customers" and "At-Risk Customers" required defining clear business logic and thresholds. 
 3. Some customers had inconsistent purchase histories, making it difficult to classify them into segments. This required careful handling of NULL values and missing timestamps.
-4. Extracting meaningful insights required writing complex SQL queries involving multiple joins, subqueries, and aggregations. To improve readability and maintainability, Common Table Expressions (CTEs) were used.
+4. Extracting meaningful insights required writing complex SQL queries involving multiple joins, subqueries and aggregations. To improve readability and maintainability, we used Common Table Expressions (CTEs).
 
 ## Key Actionable Insights
 
@@ -42,6 +42,6 @@ Our goal was to analyze the Northwind Traders dataset to extract meaningful busi
 
 # Conclusion 
 
-Our analysis provided valuable insights. Key findings highlighted growth opportunities for underperforming employees, risk mitigation strategies for supplier dependencies and operational improvements for logistics and order fulfillment.
+Our analysis provided valuable insights. Key findings highlighted identifying high-value customers, high-performing employees and operational improvements for logistics and order fulfillment.
 
 By leveraging these insights, Northwind Traders can implement data-driven strategies to boost revenue, improve supplier partnerships, enhance customer retention and improve operations. Future work could involve integrating predictive analytics to forecast sales trends and optimize inventory management further.
