@@ -1,4 +1,4 @@
-# Northwind Traders SQL Analysis
+# Business Intelligence Analysis of the Northwind Traders Database
 
 **Summary**: This is a comprehensive SQL analysis of the Northwind Traders database, a simulated dataset commonly used for learning and business intelligence exploration. We explored data insights through complex queries, joins and CTEs. We focused our analysis in 4 key areas: these were **sales revenue, customer behavior, suppliers** and **operational efficiency**, to derive actionable insights for business improvement.
 
