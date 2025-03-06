@@ -4,6 +4,9 @@
 
 ## About the Project
 
+### Data Source
+https://github.com/pthom/northwind_psql/tree/master 
+
 ### Collaborators
 - Ayush Stephen Toppo
 - Rhea Mall
