@@ -53,3 +53,7 @@ By leveraging these insights, Northwind Traders can implement data-driven strate
 [Rhea:](https://github.com/rheamall)
 - Linkedin: https://www.linkedin.com/in/rheamall
 - Email: rheadeepamall@gmail.com
+
+[Ayush:](https://stephenacodes.github.io/myportfolio.github.io/)
+- Linkedin: https://www.linkedin.com/in/ayush-stephen-toppo-aa29b8201
+- Email: ayushstephen2002@gmail.com
