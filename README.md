@@ -2,6 +2,11 @@
 
 **Summary**: This is a comprehensive SQL analysis of the Northwind Traders database, a simulated dataset commonly used for learning and business intelligence exploration. We explored data insights through complex queries, joins and CTEs. Our analysis was focused on 4 key areas: **sales revenue, customer behavior, suppliers** and **operational efficiency**, to derive actionable insights for business improvement.
 
+### Dashboard Demonstration
+
+https://github.com/user-attachments/assets/ac6c6674-80ee-4e52-b623-a6cd1eb78c66
+
+
 ## About the Project
 
 ### Data Source
@@ -13,10 +18,13 @@ https://github.com/pthom/northwind_psql/tree/master
 
 ### Tools Used
 - **PostgreSQL** for database querying and analysis  
-- **Jupyter Notebooks** for executing queries  
+- **Jupyter Notebooks** for executing queries
+- **Looker Studio** and **Google Sheets** for creating a 3 page interactive dashboard
 
 ### Goals and Business Relevancy
-Our goal was to analyze the Northwind Traders dataset to extract meaningful business insights related to **sales revenue, supplier behaviours, customer trends** and **operational efficiency**. By breaking down revenue trends and identifying patterns in purchasing behavior, high-value products, supplier reliability, and seasonal revenue fluctuations, we aimed to provide actionable recommendations to improve customer retention, optimize supplier partnerships and enhance logistics to maximize profitability.  
+Our goal was to analyze the Northwind Traders dataset to extract meaningful business insights related to **sales revenue, supplier behaviours, customer trends** and **operational efficiency**. By breaking down revenue trends and identifying patterns in purchasing behavior, high-value products, supplier reliability, and seasonal revenue fluctuations, we aimed to provide actionable recommendations to improve customer retention, optimize supplier partnerships and enhance logistics to maximize profitability. 
+
+To then visually showcase our findings, we developed an interactive dashboard that showcased key findings, enabling users to access detailed information about sales/revenue and drill down into specific metrics such as customer segments, product performance and supplier/operational efficiency. This dynamic tool would allow stakeholders to explore trends, compare different dimensions and make data-driven decisions more effectively. 
 
 ### Challenges
 1. The *customer_customer_demo* and *customer_demographics* tables were empty, limiting any demographic-based insights.
