@@ -4,6 +4,8 @@
 
 ### Dashboard Demonstration
 
+You can interact with the dashboard on Looker Studio [here](https://lookerstudio.google.com/reporting/8e7422ae-0ff6-4acb-81db-5b34d9a6a563).
+
 https://github.com/user-attachments/assets/ac6c6674-80ee-4e52-b623-a6cd1eb78c66
 
 
